@@ -1,0 +1,5 @@
+# For Linux users, to ensure tkinter is installed
+tkinter; platform_system=="Linux"
+
+# For nicer GUI styling
+ttkbootstrap
